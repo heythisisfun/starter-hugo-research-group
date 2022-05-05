@@ -4,13 +4,14 @@ widget_id: welcome
 headless: true
 weight: 10
 title: Xiong Research Group
-hero_media: welcome.jpg
+active: true
 design:
   columns: "1"
   css_style: null
   css_class: null
   background:
-    image: pngtree-carbon-fiber-background-vector-design-in-hexagons-picture-image_1206947.jpg
+    ? image
+hero_media: welcome.jpg
 ---
 <br>
 
